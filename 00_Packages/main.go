@@ -19,5 +19,5 @@ func main() {
 	// Sua implementação começa aqui
 	fmt.Println("Iniciando Desafio 1: Pacotes e Nomes Exportados...")
 	fmt.Println("Imprimindo o valor de pi: ", math.Pi)
-	fmt.Println("Imprimindo o valor de uma raiz quadrada: ", math.Sqrt(64))
+	fmt.Println("Imprimindo o valor de uma raiz quadrada de 64: ", math.Sqrt(64))
 }
